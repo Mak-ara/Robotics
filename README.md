@@ -4,8 +4,6 @@
 
 This repository contains Python code for creating and simulating a 3D model of a vertical robot arm with revolute joints using FreeCAD. The simulation demonstrates forward kinematics principles and allows for interactive control of the robot arm's movement.
 
-![Robot Arm Visualization](robot_arm.png)
-
 ## Features
 
 - **Parametric Design**: Easily adjustable dimensions for all components
